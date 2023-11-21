@@ -26,8 +26,8 @@ This project is a simple weather forecast application built with Python using th
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BloodyReed/finalpython.git
-   cd finalpython
+   git clone https://github.com/BloodyReed/final3.git
+   cd final3
 
 ### Change-API
 - Open the main.py file.
